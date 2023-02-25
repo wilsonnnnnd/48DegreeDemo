@@ -67,6 +67,10 @@ https://docs.google.com/document/d/1kzAsg6OWJVnzJuuXY5gs6TUW6o8u5rN68uAODFyNnqE/
 
 Weimeng(Wilson) Ding
 [@Wilson](https://github.com/wilsonnnnnd)
+Elijah Dennis
+Sebastian Peart
+Daniel Chai 
+WangLin Song
 
 ## Version History
 
